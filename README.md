@@ -8,4 +8,4 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://rapid.corp.google.com/#/candidate/jetpack_xr/jetpack_xr_1.0.0-alpha02/jetpack_xr_1.0.0-alpha02_RC01
+https://rapid.corp.google.com/#/candidate/jetpack_xr/jetpack_xr_1.0.0-alpha02/jetpack_xr_1.0.0-alpha02_RC03
