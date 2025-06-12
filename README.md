@@ -28,6 +28,8 @@ These jar files provide stubs for the com.android.xr.extensions platform APIs.
 - com.android.extensions.xr.instrumented.test.jar - to be used as a compile-only
   dependency for XR instrumented tests that rely on extensions
 
+Build ID: http://ab/13548023
+
 ## Jetpack XR Native Code
 
 These shared libraries are used by the xr:runtime-openxr and xr:scenecore
@@ -38,4 +40,4 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://rapid.corp.google.com/#/candidate/jetpack_xr/jetpack_xr_1.0.0-alpha02/jetpack_xr_1.0.0-alpha02_RC03
+https://rapid.corp.google.com/#/candidate/jetpack_xr/nightly_20250530/nightly_20250530_RC00
