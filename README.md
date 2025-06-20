@@ -41,4 +41,4 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://rapid.corp.google.com/#/candidate/jetpack_xr/nightly_20250613/nightly_20250613_RC01
+https://rapid.corp.google.com/#/candidate/jetpack_xr/nightly_20250620/nightly_20250620_RC00
