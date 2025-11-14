@@ -1,0 +1,20 @@
+# ===========
+# PLEASE READ
+# ===========
+# It is *highly recommended* that you consult with one of the owners listed
+# below before updating the extensions. Additional testing is usually needed,
+# to guard against JXR apps crashing mysteriously.
+
+# Bug component: 1720634
+agustinbarreto@google.com
+bvanderlaan@google.com
+djeu@google.com
+jfinder@google.com
+
+# Additional owners who are familar with JXR's dependencies.
+mrw@google.com
+leoferrer@google.com
+
+# AndroidX Team
+alanv@google.com
+aurimas@google.com
