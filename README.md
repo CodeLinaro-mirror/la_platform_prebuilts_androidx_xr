@@ -21,15 +21,13 @@ under the terms of the Apache 2.0 license.
 
 These jar files provide stubs for the com.android.xr.extensions platform APIs.
 
-- com.android.extensions.xr.jar - to be used as a compile-only dependency for
-  XR libraries and apps that rely on extensions
 - com.android.extensions.xr.host.test.jar - to be used as a compile-only
   dependency for XR host tests that rely on extensions
 - com.android.extensions.xr.instrumented.test.jar - to be used as a compile-only
   dependency for XR instrumented tests that rely on extensions
 
-PMAD check in: http://mhcr/421877<br>
-Android build id: http://ab/13691615<br>
+PMAD check in: http://mhcr/486866<br>
+Android build id: http://ab/14406430<br>
 
 ## Jetpack XR Native Code
 
