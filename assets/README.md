@@ -16,3 +16,6 @@ under the terms of the Apache 2.0 license except for the following files:
 - `textures/pattern.png` courtesy [Rob Tuytel]
 (https://polyhaven.com/a/factory_wall) under [CC0]
 (https://creativecommons.org/publicdomain/zero/1.0/).
+- `models/InterpolationTest.glb` courtesy [Khronos Group]
+(https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/InterpolationTest) under [CCO]
+(https://creativecommons.org/publicdomain/zero/1.0/).
