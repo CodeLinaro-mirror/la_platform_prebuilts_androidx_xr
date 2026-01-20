@@ -26,8 +26,8 @@ These jar files provide stubs for the com.android.xr.extensions platform APIs.
 - com.android.extensions.xr.instrumented.test.jar - to be used as a compile-only
   dependency for XR instrumented tests that rely on extensions
 
-PMAD check in: http://mhcr/486866<br>
-Android build id: http://ab/14406430<br>
+PMAD check in: http://mhcr/537588<br>
+Android build id: http://ab/14650342<br>
 
 ## Jetpack XR Native Code
 
