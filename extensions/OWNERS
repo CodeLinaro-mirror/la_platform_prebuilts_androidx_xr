@@ -6,10 +6,10 @@
 # to guard against JXR apps crashing mysteriously.
 
 # Bug component: 1720634
+agustinbarreto@google.com
+bvanderlaan@google.com
+djeu@google.com
 jfinder@google.com
-quaker@google.com
-lucialai@google.com
-ethanphwu@google.com
 
 # Additional owners who are familar with JXR's dependencies.
 mrw@google.com
