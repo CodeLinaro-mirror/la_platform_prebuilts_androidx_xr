@@ -18,6 +18,7 @@ precision highp float;
 uniform sampler2D u_Texture;
 uniform vec4 u_gridControl;  // dotThreshold, lineThreshold, lineFadeShrink, occlusionShrink
 varying vec3 v_TexCoordAlpha;
+uniform vec4 u_Tint;
 
 void main() {
   vec4 control = texture2D(u_Texture, v_TexCoordAlpha.xy);
@@ -26,5 +27,6 @@ void main() {
   float alpha = (control.r * dotScale > u_gridControl.x) ? 1.0
               : (control.g > u_gridControl.y)            ? lineFade
                                                          : (0.25 * lineFade);
-  gl_FragColor = vec4(alpha * v_TexCoordAlpha.z);
+  float intensity = alpha * v_TexCoordAlpha.z;
+  gl_FragColor = u_Tint * intensity;
 }
