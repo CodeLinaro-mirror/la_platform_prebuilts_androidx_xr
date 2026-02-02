@@ -10,3 +10,12 @@ under the terms of the Apache 2.0 license except for the following files:
 - `skyboxes/GreySkybox.zip` courtesy [Sergej Majboroda]
 (https://polyhaven.com/a/colorful_studio) under [CC0]
 (https://creativecommons.org/publicdomain/zero/1.0/).
+- `models/Dragon_Evolved.gltf` courtesy [Quaternius]
+(https://quaternius.com/packs/ultimatemonsters.html) under [CC0]
+(https://creativecommons.org/publicdomain/zero/1.0/).
+- `textures/pattern.png` courtesy [Rob Tuytel]
+(https://polyhaven.com/a/factory_wall) under [CC0]
+(https://creativecommons.org/publicdomain/zero/1.0/).
+- `models/InterpolationTest.glb` courtesy [Khronos Group]
+(https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/InterpolationTest) under [CCO]
+(https://creativecommons.org/publicdomain/zero/1.0/).
