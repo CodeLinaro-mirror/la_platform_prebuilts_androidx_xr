@@ -39,4 +39,4 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_feb_2026/jetpack_xr_feb_2026_RC03
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_feb_2026/jetpack_xr_feb_2026_RC02
