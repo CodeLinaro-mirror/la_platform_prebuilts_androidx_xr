@@ -40,3 +40,13 @@ code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
 https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_march_2026/jetpack_xr_march_2026_RC01
+
+## Impress Test Prebuilts
+
+These shared libraries bundle the native code for the JNI marshalling tests that ensure data gets
+properly marshalled across both sides of the JNI layer.
+
+- libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI marshalling tests.
+
+Imported from
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260309/nightly_20260309_RC00
