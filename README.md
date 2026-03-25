@@ -26,8 +26,8 @@ These jar files provide stubs for the com.android.xr.extensions platform APIs.
 - com.android.extensions.xr.instrumented.test.jar - to be used as a compile-only
   dependency for XR instrumented tests that rely on extensions
 
-PMAD check in: http://mhcr/537588<br>
-Android build id: http://ab/14650342<br>
+PMAD check in: http://mhcr/572905<br>
+Android build id: http://ab/14957331<br>
 
 ## Jetpack XR Native Code
 
@@ -39,4 +39,15 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260220/nightly_20260220_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260318/nightly_20260318_RC02/
+
+## Impress Test Prebuilts
+
+These shared libraries bundle the native code for the JNI marshalling tests that ensure data gets
+properly marshalled across both sides of the JNI layer.
+
+- libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI marshalling tests.
+
+Imported from
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_april_2026/jetpack_xr_april_2026_RC00
+
