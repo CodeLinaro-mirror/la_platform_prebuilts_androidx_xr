@@ -49,5 +49,5 @@ properly marshalled across both sides of the JNI layer.
 - libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI marshalling tests.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_april_2026/jetpack_xr_april_2026_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_april_2026/jetpack_xr_april_2026_RC04
 
