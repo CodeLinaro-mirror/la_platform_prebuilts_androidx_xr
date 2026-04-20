@@ -50,4 +50,4 @@ xr:scenecore:scenecore-spatial.
     marshalling tests.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260417/nightly_20260417_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260420/nightly_20260420_RC00
