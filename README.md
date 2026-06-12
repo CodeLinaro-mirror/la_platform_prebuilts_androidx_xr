@@ -38,7 +38,7 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260506/nightly_20260506_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260608/nightly_20260608_RC00
 
 ## Impress Test Prebuilts
 
@@ -50,4 +50,4 @@ xr:scenecore:scenecore-spatial.
     marshalling tests.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260504/nightly_20260504_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260528/nightly_20260528_RC00
