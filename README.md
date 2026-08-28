@@ -51,3 +51,10 @@ xr:scenecore:scenecore-spatial.
 
 Imported from
 https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260821/nightly_20260821_RC00
+
+## Jetpack XR CLI Prebuilts
+
+The `cli` directory contains prebuilt binaries and scripts (such as `xr_inject_input_cli`)
+used by `xr:testutils` (`SpatialInteractionHelper`) to inject 6DoF raycasts on devices or
+emulators where the CLI is not pre-installed in `/system/bin`.
+
