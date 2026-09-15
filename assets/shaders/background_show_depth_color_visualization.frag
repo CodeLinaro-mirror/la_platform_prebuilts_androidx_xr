@@ -27,12 +27,11 @@ in vec2 v_CameraTexCoord;
 
 layout(location = 0) out vec4 o_FragColor;
 
-float Depth_GetCameraDepthInMillimeters(const sampler2D depthTexture,
+float Depth_GetCameraDepthInMeters(const sampler2D depthTexture,
                                         const vec2 depthUv) {
-  // Depth is packed into the red and green components of its texture.
-  // The texture is a normalized format, storing millimeters.
-  vec3 packedDepthAndVisibility = texture(depthTexture, depthUv).xyz;
-  return dot(packedDepthAndVisibility.xy, vec2(255.0, 256.0 * 255.0));
+  // Depth is packed into the red components of its texture.
+  // The texture is a normalized format, storing meters.
+  return texture(depthTexture, depthUv).x;
 }
 
 // Returns a color corresponding to the depth passed in.
@@ -57,9 +56,8 @@ void main() {
 
   // Interpolating in units of meters is more stable, due to limited floating
   // point precision on GPU.
-  float depth_mm =
-      Depth_GetCameraDepthInMillimeters(u_CameraDepthTexture, v_CameraTexCoord);
-  float depth_meters = depth_mm * 0.001;
+  float depth_meters =
+      Depth_GetCameraDepthInMeters(u_CameraDepthTexture, v_CameraTexCoord);
 
   // Selects the portion of the color palette to use.
   float normalizedDepth = 0.0;
