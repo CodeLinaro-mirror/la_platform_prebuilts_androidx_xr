@@ -50,7 +50,7 @@ xr:scenecore:scenecore-spatial.
     marshalling tests.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_oct_21_2026/jetpack_xr_oct_21_2026_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_oct_21_2026/jetpack_xr_oct_21_2026_RC01
 
 ## Jetpack XR CLI Prebuilts
 
