@@ -38,7 +38,7 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260922/nightly_20260922_RC00
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260929/nightly_20260929_RC00
 
 ## Impress Test Prebuilts
 
