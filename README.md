@@ -37,8 +37,7 @@ C API to Java and Kotlin code.
 They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
-Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261002/nightly_20261002_RC00
+Jetpack XR Native Code imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261002/nightly_20261002_RC00
 
 ## Impress Test Prebuilts
 
@@ -49,8 +48,7 @@ xr:scenecore:scenecore-spatial.
 -   libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI
     marshalling tests.
 
-Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261002/nightly_20261002_RC00
+Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261002/nightly_20261002_RC00
 
 ## Jetpack XR CLI Prebuilts
 
