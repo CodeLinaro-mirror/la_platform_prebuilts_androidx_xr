@@ -25,8 +25,8 @@ These jar files provide stubs for the com.android.xr.extensions platform APIs.
 -   com.android.extensions.xr.instrumented.test.jar - to be used as a
     compile-only dependency for XR instrumented tests that rely on extensions
 
-Peregrine check in: http://peregrine/637945<br>
-Android build id: http://ab/15958596<br>
+Peregrine check in: http://peregrine/743128<br>
+Android build id: http://ab/16226408<br>
 
 ## Jetpack XR Native Code
 
@@ -38,7 +38,7 @@ They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_sep_09_2026/jetpack_xr_sep_09_2026_RC01
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_oct_21_2026/jetpack_xr_oct_21_2026_RC01
 
 ## Impress Test Prebuilts
 
@@ -50,4 +50,11 @@ xr:scenecore:scenecore-spatial.
     marshalling tests.
 
 Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_sep_09_2026/jetpack_xr_sep_09_2026_RC01
+https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_oct_21_2026/jetpack_xr_oct_21_2026_RC01
+
+## Jetpack XR CLI Prebuilts
+
+The `cli` directory contains prebuilt binaries and scripts (such as `xr_inject_input_cli`)
+used by `xr:testutils` (`SpatialInteractionHelper`) to inject 6DoF raycasts on devices or
+emulators where the CLI is not pre-installed in `/system/bin`.
+
