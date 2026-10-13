@@ -37,7 +37,7 @@ C API to Java and Kotlin code.
 They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
-Jetpack XR Native Code imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261002/nightly_20261002_RC00
+Jetpack XR Native Code imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_nov_18_2026/jetpack_xr_nov_18_2026_RC00
 
 ## Impress Test Prebuilts
 
