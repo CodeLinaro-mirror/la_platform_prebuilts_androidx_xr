@@ -48,7 +48,7 @@ xr:scenecore:scenecore-spatial.
 -   libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI
     marshalling tests.
 
-Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261002/nightly_20261002_RC00
+Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_nov_18_2026/jetpack_xr_nov_18_2026_RC00
 
 ## Jetpack XR CLI Prebuilts
 
