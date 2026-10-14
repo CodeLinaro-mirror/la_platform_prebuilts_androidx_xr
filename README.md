@@ -25,8 +25,8 @@ These jar files provide stubs for the com.android.xr.extensions platform APIs.
 -   com.android.extensions.xr.instrumented.test.jar - to be used as a
     compile-only dependency for XR instrumented tests that rely on extensions
 
-Peregrine check in: http://peregrine/743128<br>
-Android build id: http://ab/16226408<br>
+Peregrine check in: http://peregrine/816683<br>
+Android build id: http://ab/16430907<br>
 
 ## Jetpack XR Native Code
 
@@ -37,8 +37,7 @@ C API to Java and Kotlin code.
 They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
-Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_oct_21_2026/jetpack_xr_oct_21_2026_RC01
+Jetpack XR Native Code imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_nov_18_2026/jetpack_xr_nov_18_2026_RC00
 
 ## Impress Test Prebuilts
 
@@ -49,8 +48,7 @@ xr:scenecore:scenecore-spatial.
 -   libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI
     marshalling tests.
 
-Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_oct_21_2026/jetpack_xr_oct_21_2026_RC01
+Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_nov_18_2026/jetpack_xr_nov_18_2026_RC00
 
 ## Jetpack XR CLI Prebuilts
 
