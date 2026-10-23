@@ -30,14 +30,18 @@ Android build id: http://ab/16430907<br>
 
 ## Jetpack XR Native Code
 
-These shared libraries are used by the xr:arcore:arcore-openxr and
-xr:runtime:runtime-openxr Jetpack modules to expose OpenXR functionality from a
-C API to Java and Kotlin code.
+These shared libraries are used by the xr:arcore:arcore-openxr,
+xr:runtime:runtime-openxr and xr:scenecore:scenecore-openxr Jetpack modules to
+expose OpenXR functionality from a C API to Java and Kotlin code.
 
 They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
-Jetpack XR Native Code imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
+Jetpack XR Native Code (release - arcore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
+
+Jetpack XR Native Code (release - runtime) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
+
+Jetpack XR Native Code (release - scenecore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
 
 ## Impress Test Prebuilts
 
