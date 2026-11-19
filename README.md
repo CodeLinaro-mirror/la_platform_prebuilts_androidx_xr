@@ -37,11 +37,11 @@ expose OpenXR functionality from a C API to Java and Kotlin code.
 They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
-Jetpack XR Native Code (release - arcore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_dec_16_2026/jetpack_xr_dec_16_2026_RC00
+Jetpack XR Native Code (release - arcore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
 
-Jetpack XR Native Code (release - runtime) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_dec_16_2026/jetpack_xr_dec_16_2026_RC00
+Jetpack XR Native Code (release - runtime) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
 
-Jetpack XR Native Code (release - scenecore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_dec_16_2026/jetpack_xr_dec_16_2026_RC00
+Jetpack XR Native Code (release - scenecore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261020/nightly_20261020_RC00
 
 ## Impress Test Prebuilts
 
@@ -52,7 +52,7 @@ xr:scenecore:scenecore-spatial.
 -   libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI
     marshalling tests.
 
-Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261117/nightly_20261117_RC00
+Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_nov_18_2026/jetpack_xr_nov_18_2026_RC00
 
 ## Jetpack XR CLI Prebuilts
 
