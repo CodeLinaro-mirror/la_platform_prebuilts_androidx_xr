@@ -25,20 +25,23 @@ These jar files provide stubs for the com.android.xr.extensions platform APIs.
 -   com.android.extensions.xr.instrumented.test.jar - to be used as a
     compile-only dependency for XR instrumented tests that rely on extensions
 
-PMAD check in: http://mhcr/613910<br>
-Android build id: http://ab/15299340<br>
+Peregrine check in: http://peregrine/816683<br>
+Android build id: http://ab/16430907<br>
 
 ## Jetpack XR Native Code
 
-These shared libraries are used by the xr:arcore:arcore-openxr and
-xr:runtime:runtime-openxr Jetpack modules to expose OpenXR functionality from a
-C API to Java and Kotlin code.
+These shared libraries are used by the xr:arcore:arcore-openxr,
+xr:runtime:runtime-openxr and xr:scenecore:scenecore-openxr Jetpack modules to
+expose OpenXR functionality from a C API to Java and Kotlin code.
 
 They are equivalent to builds produced from the open-source Jetpack XR Native
 code hosted at https://github.com/google-ar/jetpack-xr-natives/.
 
-Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260514/nightly_20260514_RC00
+Jetpack XR Native Code (release - arcore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_dec_16_2026/jetpack_xr_dec_16_2026_RC00
+
+Jetpack XR Native Code (release - runtime) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_dec_16_2026/jetpack_xr_dec_16_2026_RC00
+
+Jetpack XR Native Code (release - scenecore) imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/jetpack_xr_dec_16_2026/jetpack_xr_dec_16_2026_RC00
 
 ## Impress Test Prebuilts
 
@@ -49,5 +52,11 @@ xr:scenecore:scenecore-spatial.
 -   libtest_impress_api_jni.so - to be used as a compile-only dependency for JNI
     marshalling tests.
 
-Imported from
-https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20260504/nightly_20260504_RC00
+Impress Test Prebuilts imported from: https://x20.corp.google.com/teams/vr-framework/releases/jetpack_xr/nightly_20261117/nightly_20261117_RC00
+
+## Jetpack XR CLI Prebuilts
+
+The `cli` directory contains prebuilt binaries and scripts (such as `xr_inject_input_cli`)
+used by `xr:testutils` (`SpatialInteractionHelper`) to inject 6DoF raycasts on devices or
+emulators where the CLI is not pre-installed in `/system/bin`.
+
